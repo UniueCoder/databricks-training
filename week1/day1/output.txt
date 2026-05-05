@@ -65,12 +65,12 @@ employee_id | name
 
 
 Q9
-total_salary
--------------
-250000
+employee_id | name
+-------------------------
+3           | Mike Johnson
 
 
 Q10
-avg_salary
-------------
-50000
+employee_id | name
+-------------------------
+1           | John Doe
