@@ -1,1 +1,76 @@
+Day 1 SQL Outputs
 
+Q1
+employee_id | name          | age | salary | department_id
+----------------------------------------------------------
+1           | John Doe      | 35  | 50000  | 1
+2           | Jane Smith    | 28  | 60000  | 2
+3           | Mike Johnson  | 40  | 55000  | 1
+4           | Emily Davis   | 30  | 45000  | 3
+5           | Chris Brown   | 25  | 40000  | 2
+
+
+Q2
+name          | salary
+-----------------------
+John Doe      | 50000
+Jane Smith    | 60000
+Mike Johnson  | 55000
+Emily Davis   | 45000
+Chris Brown   | 40000
+
+
+Q3
+employee_id | name          | age | salary | department_id
+----------------------------------------------------------
+1           | John Doe      | 35  | 50000  | 1
+3           | Mike Johnson  | 40  | 55000  | 1
+
+
+Q4
+name
+---------
+IT
+HR
+Finance
+Marketing
+
+
+Q5
+employee_id | name          | age | salary | department_id
+----------------------------------------------------------
+1           | John Doe      | 35  | 50000  | 1
+3           | Mike Johnson  | 40  | 55000  | 1
+
+
+Q6
+employee_id | name
+-------------------------
+1           | John Doe
+2           | Jane Smith
+
+
+Q7
+employee_id | name
+-------------------------
+1           | John Doe
+4           | Emily Davis
+
+
+Q8
+employee_id | name
+-------------------------
+2           | Jane Smith
+4           | Emily Davis
+
+
+Q9
+total_salary
+-------------
+250000
+
+
+Q10
+avg_salary
+------------
+50000
