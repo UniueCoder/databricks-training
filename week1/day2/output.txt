@@ -1,0 +1,66 @@
+Day 2 SQL Outputs
+
+Q11
+employee_id | name          | hire_date
+----------------------------------------
+2           | Jane Smith    | 2020-01-15
+5           | Chris Brown   | 2020-08-20
+
+
+Q12
+employee_id | name          | hire_date
+----------------------------------------
+2           | Jane Smith    | 2020-01-15
+
+
+Q13
+employee_id | name          | hire_date
+----------------------------------------
+1           | John Doe      | 2018-06-10
+
+
+Q14
+employee_id | name          | hire_date
+----------------------------------------
+4           | Emily Davis   | 2022-04-12
+
+
+Q15
+employee_id | name          | hire_date
+----------------------------------------
+4           | Emily Davis   | 2022-04-12
+5           | Chris Brown   | 2023-02-01
+
+
+Q16
+total_salary
+-------------
+250000
+
+
+Q17
+avg_salary
+------------
+50000
+
+
+Q18
+min_salary
+------------
+40000
+
+
+Q19
+department_id | total_employees
+--------------------------------
+1             | 2
+2             | 2
+3             | 1
+
+
+Q20
+department_id | avg_salary
+----------------------------
+1             | 52500
+2             | 50000
+3             | 45000
