@@ -1,1 +1,85 @@
+Day 3 SQL Outputs
 
+Q21
+department_id | total_salary
+------------------------------
+1             | 105000
+2             | 100000
+3             | 45000
+
+
+Q22
+department_id | avg_age
+-------------------------
+1             | 37.5
+2             | 26.5
+3             | 30
+
+
+Q23
+hire_year | total_employees
+-----------------------------
+2018      | 1
+2020      | 2
+2022      | 1
+2023      | 1
+
+
+Q24
+department_id | max_salary
+----------------------------
+1             | 55000
+2             | 60000
+3             | 45000
+
+
+Q25
+department_id | total_employees
+--------------------------------
+1             | 2
+2             | 2
+
+
+Q26
+department_id | avg_salary
+----------------------------
+1             | 52500
+2             | 50000
+
+
+Q27
+employee_id | name          | salary
+-------------------------------------
+5           | Chris Brown   | 40000
+4           | Emily Davis   | 45000
+1           | John Doe      | 50000
+3           | Mike Johnson  | 55000
+2           | Jane Smith    | 60000
+
+
+Q28
+employee_id | name          | age
+----------------------------------
+3           | Mike Johnson  | 40
+1           | John Doe      | 35
+4           | Emily Davis   | 30
+2           | Jane Smith    | 28
+5           | Chris Brown   | 25
+
+
+Q29
+employee_id | name          | salary
+-------------------------------------
+2           | Jane Smith    | 60000
+3           | Mike Johnson  | 55000
+1           | John Doe      | 50000
+
+
+Q30
+name          | department_name
+--------------------------------
+John Doe      | IT
+Jane Smith    | HR
+Mike Johnson  | IT
+Emily Davis   | Finance
+Chris Brown   | HR
